@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Extend Woo
+ * Plugin Name: Simple ToolBox For Woocommerce
 */
 
 add_action('init','remove_text',1);
